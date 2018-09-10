@@ -20,4 +20,4 @@ Script: baggingSNPsByLD.py
 # Hypergeometric Test
 Conduct Hypermetric Test for eQTL in different GWAS bins
 
-![Hypergeometric Test](https://github.com/s18692001/eQTL/blob/master/enrichment.png)
+![Hypergeometric Test](https://github.com/s18692001/eQTL/blob/master/hyper_test.png)
