@@ -8,7 +8,7 @@ The efficiency of conducting GWAS analyses has resulted in accelerating breakthr
 
 In order to identify the potential relationship between gene variants in whole bone and various phenotypes, in the current study, we conducted integrative analyses through whole bone eQTL and enrichment analyses with various GWAS. Furthermore, we also introduced experiments such as DNase I hypersensitive sites (DHSs) enrichment analysis to understand regulatory information of whole bone eQTL, GTeX eQTL, PBMC and osteoblast eQTLs enrichment analysis for further comprehension of whole bone eQTL. We first collected and processed whole bone eQTL and various GWAS datasets. After it, we utilized LD clustering algorithm and hypergeometric test to identify the significant characteristics between whole bone eQTL and various GWAS. Further analyses and overview of this study design are provided.
 
-![Overview](https://github.com/s18692001/eQTL/blob/master/procedure.png)
+![Overview](https://github.com/s18692001/eQTL/blob/master/Overview.jpeg)
 
 
 ## 
