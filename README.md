@@ -11,7 +11,13 @@ In order to identify the potential relationship between gene variants in whole b
 ![Overview](https://github.com/s18692001/eQTL/blob/master/Overview.jpeg)
 
 
-## 
+## Method and Scripts
 
-1. Assign eQTL SNPs in different Linkage Disequilibrium (LD) blocks by specific r square cut-off
-2. Conduct Hypermetric Test for eQTL in different GWAS bins
+# LD Clustering
+Assign eQTL and GWAS SNPs in different Linkage Disequilibrium (LD) blocks by specific r square cut-off.
+Script: baggingSNPsByLD.py
+
+# Hypergeometric Test
+Conduct Hypermetric Test for eQTL in different GWAS bins
+
+![Hypergeometric Test](https://github.com/s18692001/eQTL/blob/master/enrichment.png)
